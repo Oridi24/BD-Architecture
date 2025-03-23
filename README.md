@@ -1,10 +1,10 @@
-#<b> Practica-KC-BD-Architecture</b>.
+# **Practica-KC-BD-Architecture**
 Este proyecto es parte del Módulo de Arquitectura Big Data, donde he trabajado con varias tecnologías de la arquitectura Hadoop y herramientas asociadas. A lo largo del modulo, he creado diversos clústeres en Google Cloud Dataproc, diversas instancias virtuales de Google Compute Engine, Redes VPC, Cloud Storage y mas.
 
-<u>Tecnologías utilizadas:</u>.</p>
+_Tecnologías utilizadas:_</p>
 <u>1- Google Cloud Dataproc:</u> Utilizamos Google Cloud Dataproc para crear y gestionar un clúster Hadoop. Dataproc es una plataforma administrada que facilita el trabajo con frameworks como Hadoop y Spark , permitiéndonos ejecutar y gestionar grandes volúmenes de datos con eficiencia en la nube.
 
-<u>2- Hadoop:</u> Hadoop es la base de esta arquitectura, y se utiliza para distribuir el procesamiento de grandes volúmenes de datos. La configuración de HDFS (Hadoop Distributed File System) permite almacenar y gestionar los datos de manera distribuida en el clúster.
+_2- Hadoop:_ Hadoop es la base de esta arquitectura, y se utiliza para distribuir el procesamiento de grandes volúmenes de datos. La configuración de HDFS (Hadoop Distributed File System) permite almacenar y gestionar los datos de manera distribuida en el clúster.
 
 <u>3- Hive:</u> Utilizamos Hive para realizar consultas SQL sobre los datos almacenados en Hadoop. Hive proporciona una interfaz similar a SQL para facilitar el análisis de grandes cantidades de datos. Esto nos permitió ejecutar consultas sobre los datos y realizar transformaciones de manera eficiente.
 
