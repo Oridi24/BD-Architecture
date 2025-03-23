@@ -31,5 +31,5 @@ Usamos la herramienta API de Elasticsearch para cargar documentos de datos en el
 6. Visualización de datos con Kibana
 Una vez que los datos fueron cargados y almacenados en Elasticsearch, configuramos Kibana para visualizar y explorar los datos de manera interactiva. Kibana se conecta a Elasticsearch y permite crear paneles y gráficos que visualizan los datos de manera clara.
 
-<p>._**Conclusión**_.</p>
+_<p>.**Conclusión**.</p>_
 A lo largo de esta práctica, he trabajado con Google Cloud Dataproc, Hadoop, Hive, Elasticsearch y Kibana, creando una infraestructura robusta y escalable para el procesamiento y análisis de grandes volúmenes de datos. Este flujo de trabajo me ha proporcionado una comprensión más profunda de cómo las arquitecturas modernas de Big Data funcionan en la nube y cómo integran herramientas para maximizar la eficiencia y la facilidad de uso.
