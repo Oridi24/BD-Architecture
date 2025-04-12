@@ -1,9 +1,9 @@
-# **Practica-Big-Data-Architecture**
-Este proyecto es parte del Módulo de Arquitectura Big Data, donde he trabajado con varias tecnologías de la arquitectura Hadoop y herramientas asociadas. A lo largo del modulo, he creado diversos clústeres en *Google Cloud Dataproc, diversas instancias virtuales de Google Compute Engine, Redes VPC, Cloud Storage y mas*.
+# *Big Data Architecture*
+Este proyecto es parte del Módulo de *Arquitectura Big Data*, donde he trabajado con varias tecnologías de la arquitectura Hadoop y herramientas asociadas. A lo largo del modulo, he creado diversos clústeres en *Google Cloud Dataproc, diversas instancias virtuales de Google Compute Engine, Redes VPC, Cloud Storage y mas*.
 
 ---
 
-*Tecnologías utilizadas:*</p>
+## *Tecnologías utilizadas:*</p>
 _1- Google Cloud Dataproc:_ Utilizamos Google Cloud Dataproc para crear y gestionar un clúster Hadoop. Dataproc es una plataforma administrada que facilita el trabajo con frameworks como Hadoop y Spark , permitiéndonos ejecutar y gestionar grandes volúmenes de datos con eficiencia en la nube.
 
 _2- Hadoop:_ Hadoop es la base de esta arquitectura, y se utiliza para distribuir el procesamiento de grandes volúmenes de datos. La configuración de HDFS (Hadoop Distributed File System) permite almacenar y gestionar los datos de manera distribuida en el clúster.
@@ -16,7 +16,7 @@ _5- Kibana:_ Usamos Kibana como herramienta de visualización de datos para inte
 
 ---
 
-<b>*Pasos del Proyecto:*</b>
+## <b>*Pasos del Proyecto:*</b>
 1. Creación del Clúster en Google Cloud Dataproc
 Iniciamos creando un clúster Dataproc en Google Cloud.Este clúster incluye los nodos maestros y trabajadores necesarios para ejecutar aplicaciones Hadoop, como Hive y otros componentes de procesamiento de datos.
 
@@ -35,6 +35,6 @@ Usamos la herramienta API de Elasticsearch para cargar documentos de datos en el
 6. Visualización de datos con Kibana
 Una vez que los datos fueron cargados y almacenados en Elasticsearch, configuramos Kibana para visualizar y explorar los datos de manera interactiva. Kibana se conecta a Elasticsearch y permite crear paneles y gráficos que visualizan los datos de manera clara.
 
-_<p>.**Conclusión**.</p>_
+## _<p> *Conclusión* </p>_
 A lo largo de esta práctica, he trabajado con *Google Cloud Dataproc, Hadoop, Hive, Elasticsearch y Kibana*, creando una infraestructura robusta y escalable para el procesamiento y análisis de grandes volúmenes de datos.
 Este flujo de trabajo me ha proporcionado una comprensión más profunda de cómo las arquitecturas modernas de Big Data funcionan en la nube y cómo integran herramientas para maximizar la eficiencia y la facilidad de uso.
