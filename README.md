@@ -8,7 +8,7 @@
 -  ***Diseñar y desplegar una arquitectura Big Data completa en la nube***, *usando servicios gestionados y configuraciones manuales sobre Google Cloud Platform (GCP).*
 -  ***Implementar un clúster Hadoop funcional*** *mediante Dataproc, incluyendo nodos maestros y trabajadores.*
 -  ****Realizar consultas SQL sobre grandes volúmenes de datos*** utilizando Hive como interfaz accesible para análisis.*
--  **Almacenar e indexar datos de forma distribuida*** mediante *Elasticsearch, habilitando búsquedas complejas y rápidas.*
+-  ***Almacenar e indexar datos de forma distribuida*** mediante *Elasticsearch, habilitando búsquedas complejas y rápidas.*
 - ***Visualizar los datos de manera dinámica y comprensible*** *con Kibana, creando dashboards interactivos conectados a los índices de Elasticsearch.*
 -  ***Establecer conexiones entre servicios distribuidos*** *en diferentes instancias virtuales, configurando reglas de red, firewalls y comunicación entre nodos de manera segura y eficiente.*
 -  ***Adquirir experiencia práctica en despliegue cloud de soluciones Big Data***, *aplicando conceptos clave de escalabilidad, disponibilidad y rendimiento.*
